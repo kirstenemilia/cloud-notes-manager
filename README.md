@@ -22,9 +22,9 @@ Built with
 - Tkinter
 
 # Project Structure
-backend/ Flask API + database models
-frontend/ Tkinter GUI
-instance/ SQLite database file
-archive/ Old code
+-backend/ Flask API + database models
+-frontend/ Tkinter GUI
+-instance/ SQLite database file
+-archive/ Old code
 
 This project is currently being expanded into a full-stack web app with React and cloud deployment.
